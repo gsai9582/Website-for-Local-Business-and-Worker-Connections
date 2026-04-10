@@ -197,7 +197,7 @@ The first request may take **30–60 seconds to wake up**.
 
 # 👨‍💻 Author
 
-**Yadhidya Ulli**
+**Gowtham Sai Garnepudi**
 
 GitHub:
-https://github.com/Yadhidya/Work-Wagon
+https://github.com/gsai9582/Website-for-Local-Business-and-Worker-Connections.git
